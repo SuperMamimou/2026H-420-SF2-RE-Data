@@ -19,11 +19,9 @@ Durée : 3 heures
   personne dans le groupe devra faire une demande de tirage (pull request) pour
   que les autres puissent voir votre travail.
 
-:::info
+> [!NOTE]
+> Vous devez choisir un nom pour votre groupe, qui sera utilisé pour nommer votre dossier de travail.
 
-Vous devez choisir un nom pour votre groupe, qui sera utilisé pour nommer votre dossier de travail.
-
-:::
 
 ### Étape 2 : Rédaction du document markdown (30 minutes)
 
@@ -34,7 +32,8 @@ Vous devez choisir un nom pour votre groupe, qui sera utilisé pour nommer votre
   - Les avantages et inconvénients de chaque structure
   - Des exemples d'utilisation en sciences ou en informatique
 
-**Votre document markdown doit être dans le dossier `file/<nom-du-groupe>` ou `pile/<nom-du-groupe>` selon votre sujet, et doit être nommé `README.md`.**
+> [!IMPORTANT]
+> Votre document markdown doit être dans le dossier `file/<nom-du-groupe>` ou `pile/<nom-du-groupe>` selon votre sujet, et doit être nommé `README.md`.
 
 ### Étape 3 : Implémentation en Python (40 minutes)
 
